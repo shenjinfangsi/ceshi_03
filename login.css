@@ -1,0 +1,11 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c68749;
+}
+
+h1 {
+    font-weight: 200;
+    color: red;
+}
